@@ -1,5 +1,3 @@
-[![Chulapa live preview][2]][1]
-
 # Misty Palek ePortfolio
 
 ### Table of Contents
@@ -20,9 +18,3 @@ Paragraph
 ### __Sub Heading__
 Paragraph
 
-```c++
-int main()
-{
-	std::cout << "sample code" << std::endl;
-}
-```
